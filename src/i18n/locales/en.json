@@ -1,0 +1,186 @@
+{
+  "translation": {
+    "menu_home": "Home",
+    "menu_about": "About",
+    "menu_projects": "Projects",
+    "menu_resume": "Resume",
+    "menu_blog": "Blogs",
+    "Language_selection": "Language",
+
+    "greetings": {
+      "greeting": "Hi There",
+      "name": "I'M <1>Xiaopei Yang</1>"
+    },
+
+    "type_strings": {
+      "1": "Machine Learning Engineer",
+      "2": "Software Engineer",
+      "3": "Full Stack Engineer",
+      "4": "Embedded System Engineer",
+      "5": "Web Developer",
+      "6": "Open Source Contributor"
+    },
+
+    "Introduction": {
+      "title": "LET ME <1>INTRODUCE</1> MYSELF",
+      "paragraph1": "I fell in love with programming and I have at least learnt something, I think",
+
+      "paragraph2": "I am fluent in classics like <1>C++, C#, Java, Javascript/Typescript, Matlab, and Python</1>.",
+
+      "paragraph3": "My field of interest is building new <1>Web Technologies and Products</1> and also in areas related to <3>Image Processing, Natural Language Processing or other Machine Learning solutions and even Machine learning Algorithms</3>.",
+      "paragraph4": "Acquired some experience in software development during the work regarding the <1>Microsoft Azure service and devops</1>.",
+      "paragraph5": "Some fields did a long time ago, Such as <1>Microcontroller Development</1>, <3>Linux OS development</3>, <5>Internet of things</5>, etc. <7>Embedded system development</7>.",
+      "paragraph6": "Whenever possible, I also apply my passion for developing products with <1>Full Stack development</1> and <3>Machine leanring solutions</3>."
+    },
+
+    "social_info": {
+      "1": "FIND ME ON",
+      "2": "Feel free to <1>connect</1> with me"
+    },
+
+    "footer": {
+      "1": "Designed and Developed by Gaopeng Bai"
+    },
+
+    "About": {
+      "title": "Know Who <1>I'M</1>",
+      "aboutme": "Hi Everyone, I am <1>Gaopeng Bai </1>from <3> Henan, China</3>.",
+      "aboutme_1": "I am a master of embedded systems and computing from Duisburg-Essen University.",
+      "aboutme_2": "Apart from coding, some other activities that I love to do!",
+      "hobbies": {
+        "1": "Playing Games",
+        "2": "Writting Tech Blogs",
+        "3": "Watching Animation",
+        "4": "Traveling"
+      },
+
+      "instruct": "Strive to build things that make a difference!",
+
+      "sub_sills": "Professional <1>Skillset </1>",
+      "sub_works": "My <1>Working Experience </1>",
+      "sub_education": "My <1>Education </1>",
+      "sub_tools": "<0>Tools</0> I use",
+      "sub_pricing": "<0>Pricing</0> Table",
+      "sub_code": "Days I <1>Code</1>"
+    },
+
+    "working": {
+      "working1": {
+        "title": "Software Engineer & Full stack developer",
+        "date": "May 2020-Present | Technidoo solutions (Full-time job)",
+        "jd": {
+          "1": "Full-stack development with react js/ts and Microsoft Asp.Net core",
+          "2": "Full-stack development with boostrap and Python Flask",
+          "3": "Image processing with opencv for OCR(Microsoft cognitive services and terreract...) projects.",
+          "4": "Machine learning for image classNameification,object detection, text classNameification"
+        }
+      },
+      "working2": {
+        "title": "Algorithm Engineer & Project Management",
+        "date": "JUN 2019-March 2020 | Duisburg University (Student job)",
+        "jd": {
+          "1": "Project management and planning, and also design machine learning algorithms.",
+          "2": "Image processing algorithms of the neural network that include object detection, Image caption, Image classNameification.",
+          "3": "Meta-learning to recognize the behaviour of the environment (Collect data from sensors).",
+          "4": "Project presentation to the customers. Python-QT GUI."
+        }
+      },
+      "working3": {
+        "title": "Software Engineer",
+        "date": "Jan 2019-Apr 2019 | Huawei(Student-job).",
+        "jd": {
+          "1": "Maintain software developed my own.",
+          "2": "Develop new Robotic Process Automation (RPA) software."
+        }
+      },
+      "working4": {
+        "title": "Software Engineer & Project Management",
+        "date": "Jun 2018-Dec 2018 | Huawei (Internship).",
+        "jd": {
+          "1": "Develop RPA (Robotic Process Automation) and Macros of VBA for excel tools to automate office work.",
+          "2": "Troubleshooting and addressing problem of transmission trail in mobile communication."
+        }
+      },
+      "working5": {
+        "title": "Embedded System Engineer",
+        "date": "May 2015-May 2016 | Shield Smart Haus.",
+        "jd": {
+          "1": "Android application as the client control every electronic device in a room.",
+          "2": "Wireless sensor network and electronic circuit development."
+        }
+      }
+    },
+
+    "education": {
+      "education1": {
+        "title": "Master's Degree in Embedded System Engineering",
+        "date": "2016-2019 | Duisburg-Essen University",
+        "jd": {
+          "1": "Focus on the Advanced Embedded System Learning and Research."
+        }
+      },
+      "education2": {
+        "title": "Master Thesis",
+        "date": "Duisburg-Essen University | Interactive Systems Department",
+        "jd": {
+          "1": "Meta-Learning for next song recommendations  (Research on the Application of Meta-Learning Algorithms in Song Recommendation)."
+        }
+      },
+      "education3": {
+        "title": "Bachelor's Degress in Electronics and Communication Engineering",
+        "date": "2012-2016 | Zhengzhou University",
+        "jd": {
+          "1": "Focus on the basic study of electronics and communication technology and research on the direction of the Internet of Things."
+        }
+      },
+      "education4": {
+        "title": "Bachlor Thesis",
+        "date": "Zhengzhou University| Information Technology Department",
+        "jd": {
+          "1": "A complete set of smart home embedded systems based on Android application."
+        }
+      }
+    },
+
+    "projects": {
+      "title": "My previous <1>Works </1>",
+      "subTitle": "Here are a few projects I've worked on (Public Only).",
+      "project_1": {
+        "title": "OCR Video Automation",
+        "description": "This project extracts the picture area at the specified position in the video, recognizes the characters in the image and prints to the specified position in the pdf file by using python-OpenCV, python-QT5 and OCR (Optical Character Recognition) of artificial intelligence to automatic the industry machine parameters recording."
+      },
+      "project_2": {
+        "title": "Gradient Encryption",
+        "description": "The model is built for safe deep learning gradient encryption aggregation experiments on the cifar100 & mnist dataset. This realizes to use differential dataset training on the independent models then all parameters will be encrypted aggregation into specifical parameters container. Finally, the models upload parameters after gradients of each model be encrypted and aggregate together."
+      },
+      "project_3": {
+        "title": "Personal Website Template",
+        "description": "Personal Website UI Template using React-TypeScript Class components Personal website can be about anything you want, including hobbies, pets, or information like academics, achievements, work Experiences. It can be a family website that shares your adventures with loved ones along with an area for comments and discussion."
+      },
+      "project_4": {
+        "title": "QT flowmanager",
+        "description": "This project is a GUI (Python-QT) client access ryu network manager to control the flows in the swithes networks. By default, using mininet (Docker deployment) to simulate the swithes network. Basically, this programm can run any OS but must be with docker env as blow. Otherwise, you must build mininet environment on VM or linux OS."
+      },
+      "project_5": {
+        "title": "Meta-learning for recommendation",
+        "description": "In this topic, Meta-learning with Memory-Augmented Neural Network has been used to recommend the next song to a user who tends to listen. From the user's existing playlist, the algorithm is used to predict the next song recommended to the user. And by allowing the user to provide feedback action on the current song, it is used to adjust the playlist to recommend the next new song. User feedback can determine whether a song that the user is currently listening to is added to the next predicted list, then the algorithm predicts the next song that the user may prefer to listen to based on this predicted list."
+      },
+      "project_6": {
+        "title": "My Spotify Client",
+        "description": "My Spotify Client with MANN (Meta-learning with Memory-Augmented) recommendation system to verify that the results of this Meta-learning for next song recommendation are objective, I use the spotify python API to build an application (graphical user interface) that contains MANN algorithms to recommend next song to user."
+      },
+      "project_7": {
+        "title": "OCR Simulator",
+        "description": "This is a simulator to test OCR Real-Time Monitor application (c#, dotnet), include industry machine monitor simulator, and Real-Time result present client that connect with the server of OCR Real-Time Monitor integrated into timer Run function."
+      },
+      "project_8": {
+        "title": "Tensorflow Serving",
+        "description": "This is a model to deploy a trained model in a containerized application by using Tensorflow Server and kubernetes, a Python application that exposes one or several APIS, which consume and then serve predictions from the served model, and also write system tests which demonstrate the performance of your application under load."
+      },
+      "project_9": {
+        "title": "My Web Spotify Client",
+        "description": "My Web Spotify Client with RecRNN recommendation system to verify that the results of this Meta-learning for next song recommendation are objective, I use the spotify web API to build an application (graphical user interface) developed by python django and redis server that contains own RNN recommendation algorithms to recommend next song to user."
+      }
+    }
+  }
+}

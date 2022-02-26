@@ -1,0 +1,185 @@
+{
+  "translation": {
+    "menu_home": "主页",
+    "menu_about": "关于",
+    "menu_projects": "项目",
+    "menu_resume": "简历",
+    "menu_blog": "博客",
+    "Language_selection": "语言",
+
+    "greetings": {
+      "greeting": "你好呀",
+      "name": "我是 <1>杨晓沛</1>"
+    },
+
+    "type_strings": {
+      "1": "机器学习工程师",
+      "2": "软件工程师",
+      "3": "全栈工程师",
+      "4": "嵌入式系统工程师",
+      "5": "Web开发人员",
+      "6": "开源贡献者"
+    },
+
+    "Introduction": {
+      "title": "让我 <1>介绍</1> 我自己",
+      "paragraph1": "我爱上了编程，至少我学到了一些东西，我想",
+
+      "paragraph2": "我的专业编程技能 <1>C++, C#, Java, Javascript/Typescript, Matlab, and Python</1>.",
+
+      "paragraph3": "我感兴趣的领域是建立新的 <1>网络应用技术和产品</1> 以及相关领域 <3>图像处理、自然语言处理或其他机器学习解决方案，甚至机器学习算法</3>.",
+      "paragraph4": "在相关工作中获得了一些软件开发经验 <1>Microsoft Azure 服务和 DevOps</1>.",
+      "paragraph5": "有些领域很久以前做过，比如 <1>微控制器开发</1>, <3>Linux操作系统开发</3>, <5>物联网</5>, etc. <7>嵌入式系统开发</7>.",
+      "paragraph6": "只要有可能，我也会用我的热情来开发产品 <1>全栈开发</1> and <3>机器学习解决方案</3>."
+    },
+
+    "social_info": {
+      "1": "找到我",
+      "2": "随意地 <1>联系</1> 我"
+    },
+
+    "footer": {
+      "1": "Designed and Developed by Gaopeng Bai"
+    },
+
+    "About": {
+      "title": "知道 <1>我</1>",
+      "aboutme": "你们好, 我是 <1>白高鹏 </1>来自 <3> 中国河南</3>.",
+      "aboutme_1": "我是杜伊斯堡-埃森大学嵌入式系统与计算硕士.",
+      "aboutme_2": "除了编码，我喜欢做的其他一些活动!",
+      "hobbies": {
+        "1": "玩游戏",
+        "2": "撰写技术博客",
+        "3": "看动漫",
+        "4": "旅游"
+      },
+
+      "instruct": "努力打造与众不同的事物!",
+
+      "sub_sills": "专业 <1>技能集 </1>",
+      "sub_works": "我的 <1>工作经验 </1>",
+      "sub_education": "我的 <1>教育 </1>",
+      "sub_tools": "<0>工具</0> 我使用的",
+      "sub_pricing": "<0>价目</0> 表格",
+      "sub_code": "Days I <1>Code</1>"
+    },
+
+    "working": {
+      "working1": {
+        "title": "软件工程师和全栈开发人员",
+        "date": "5月2020年5月 - 现在Technidoo解决方案（全职工作）",
+        "jd": {
+          "1": "与React JS / TS和Microsoft ASP.NET核心的全栈开发",
+          "2": "使用Bootstrap和Python Flask全堆栈开发",
+          "3": "OPENCV（Microsoft认知服务和Terreract ...）项目的图像处理。",
+          "4": "图像分类机器学习，对象检测，文本分类"
+        }
+      },
+      "working2": {
+        "title": "算法工程师和项目管理",
+        "date": "2019年6月2020年3月|杜伊斯堡大学（学生工作）",
+        "jd": {
+          "1": "项目管理和规划，以及设计机器学习算法。",
+          "2": "包括对象检测，图像标题，图像类的神经网络的图像处理算法。",
+          "3": "元学习识别环境的行为（从传感器收集数据）。",
+          "4": "项目介绍给客户.Python-Qt-GUI。"
+        }
+      },
+      "working3": {
+        "title": "软件工程师",
+        "date": "2019年1月-2019年4月| 华为（学生-工作）。",
+        "jd": {
+          "1": "维护我自己开发的软件。",
+          "2": "开发新的机器人流程自动化 (RPA) 软件。"
+        }
+      },
+      "working4": {
+        "title": "软件工程师和项目管理",
+        "date": "2018 年 6 月-2018 年 12 月 | 华为（实习）",
+        "jd": {
+          "1": "为 Excel 工具开发 RPA（机器人流程自动化）和 VBA 宏，以实现办公室工作自动化。",
+          "2": "移动通信传输路径问题的排查与解决。"
+        }
+      },
+      "working5": {
+        "title": "嵌入式系统工程师",
+        "date": "2015 年 5 月-2016 年 5 月 | 盾牌智能家居。",
+        "jd": {
+          "1": "Android 应用程序作为客户端控制房间内的所有电子设备。",
+          "2": "无线传感器网络和电子电路开发。"
+        }
+      }
+    },
+
+    "education": {
+      "education1": {
+        "title": "嵌入式系统工程硕士学位",
+        "date": "2016-2019 | 杜伊斯堡-埃森大学",
+        "jd": {
+          "1": "专注于高级嵌入式系统的学习与研究。"
+        }
+      },
+      "education2": {
+        "title": "硕士论文",
+        "date": "杜伊斯堡-埃森大学 | 交互式系统系",
+        "jd": {
+          "1": "用于下一首歌曲推荐的元学习（元学习算法在歌曲推荐中的应用研究）。"
+        }
+      },
+      "education3": {
+        "title": "电子与通信工程学士学位",
+        "date": "2012-2016 | 郑州大学",
+        "jd": {
+          "1": "专注于电子与通信技术基础研究和物联网方向研究。"
+        }
+      },
+      "education4": {
+        "title": "学士论文",
+        "date": "郑州大学| 信息技术系",
+        "jd": {
+          "1": "一套完整的基于Android应用的智能家居嵌入式系统。"
+        }
+      }
+    },
+    "projects": {
+      "title": "我以前的 <1>作品 </1>",
+      "subTitle": "以下是我参与过的一些项目 (仅公开).",
+      "project_1": {
+        "title": "OCR Video Automation",
+        "description": "本项目利用人工智能的python-OpenCV、python-QT5和OCR（Optical Character Recognition），提取视频中指定位置的图片区域，识别图像中的字符并打印到pdf文件中的指定位置 工业机器参数自动记录."
+      },
+      "project_2": {
+        "title": "Gradient Encryption",
+        "description": "该模型是为 cifar100 和 mnist 数据集上的安全深度学习梯度加密聚合实验而构建的。 这实现了在独立模型上使用差分数据集训练，然后所有参数将加密聚合到特定的参数容器中。 最后，模型在每个模型的梯度被加密并聚合后上传参数."
+      },
+      "project_3": {
+        "title": "Personal Website Template",
+        "description": "使用 React-TypeScript 类组件的个人网站 UI 模板个人网站可以是您想要的任何内容，包括爱好、宠物或学术、成就、工作经验等信息。 它可以是一个家庭网站，与亲人分享您的冒险经历以及评论和讨论区."
+      },
+      "project_4": {
+        "title": "QT flowmanager",
+        "description": "该项目是一个 GUI (Python-QT) 客户端访问 ryu 网络管理器，用于控制 swithes 网络中的流量。 默认情况下，使用 mininet（Docker 部署）来模拟 swithes 网络。 基本上，这个程序可以运行任何操作系统，但必须使用 docker env 作为打击。 否则，您必须在VM或Linux OS上构建mininet环境."
+      },
+      "project_5": {
+        "title": "Meta-learning for recommendation",
+        "description": "在本主题中，元学习与记忆增强神经网络已被用于向倾向于听的用户推荐下一首歌曲。 从用户现有的播放列表中，该算法用于预测推荐给用户的下一首歌曲。 并且通过允许用户对当前歌曲提供反馈动作，用于调整播放列表以推荐下一首新歌曲。 用户反馈可以确定用户当前正在听的歌曲是否被添加到下一个预测列表中，然后算法根据这个预测列表预测用户可能更喜欢听的下一首歌曲."
+      },
+      "project_6": {
+        "title": "My Spotify Client",
+        "description": "我的 Spotify 客户端与 MANN（元学习与记忆增强）推荐系统来验证此元学习的下一首歌曲推荐的结果是客观的，我使用 Spotify python API 构建一个应用程序（图形用户界面），其中包含 向用户推荐下一首歌曲的 MANN 算法."
+      },
+      "project_7": {
+        "title": "OCR Simulator",
+        "description": "这是一个用于测试 OCR 实时监控应用程序（c#、dotnet）的模拟器，包括工业机器监控模拟器，以及与 OCR 实时监控服务器连接的实时结果呈现客户端集成到计时器运行功能中."
+      },
+      "project_8": {
+        "title": "Tensorflow Serving",
+        "description": "这是一种使用 Tensorflow Server 和 kubernetes 在容器化应用程序中部署训练模型的模型，kubernetes 是一种暴露一个或多个 APIS 的 Python 应用程序，这些 APIS 使用并提供来自所服务模型的预测，并编写系统测试来演示性能 负载下的应用程序."
+      },
+      "project_9": {
+        "title": "My Web Spotify Client",
+        "description": "我的带有 RecRNN 推荐系统的 Web Spotify 客户端验证此 Meta-learning 为下一首歌曲推荐的结果是客观的，我使用 Spotify Web API 构建了一个由 python django 和 redis 服务器开发的应用程序（图形用户界面），其中包含自己的 RNN 推荐算法向用户推荐下一首歌曲."
+      }
+    }
+  }
+}

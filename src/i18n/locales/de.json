@@ -1,0 +1,185 @@
+{
+  "translation": {
+    "menu_home": "Startseite",
+    "menu_about": "Über",
+    "menu_projects": "Projekte",
+    "menu_resume": "Lebenslauf",
+    "menu_blog": "Blogs",
+    "Language_selection": "Sprache",
+
+    "greetings": {
+      "greeting": "Hallo",
+      "name": "Ich bin <1>Gaopeng Bai</1>"
+    },
+
+    "type_strings": {
+      "1": "Ingenieur für maschinelles Lernen",
+      "2": "Softwareentwickler",
+      "3": "Full-Stack-Ingenieur",
+      "4": "Ingenieur für eingebettete Systeme",
+      "5": "Web-Entwickler",
+      "6": "Open-Source-Mitwirkender"
+    },
+
+    "Introduction": {
+      "title": "Lassen Sie mich Ihnen vorstellen <1>vorstellen</1>",
+      "paragraph1": "Ich habe mich ins Programmieren verliebt und zumindest etwas gelernt, denke ich",
+
+      "paragraph2": "Ich bin fließend Klassiker wie <1>C++, C#, Java, Javascript/Typescript, Matlab, and Python</1>.",
+
+      "paragraph3": "Mein Interessengebiet ist das Bauen neu <1>Web Technologien und Produkte</1> und auch in Bereichen im Zusammenhang mit <3>Bildverarbeitung, Natural Language Processing oder andere Machine-Learning-Lösungen und sogar Machine-Learning-Algorithmen</3>.",
+      "paragraph4": "Erfahrung in der Softwareentwicklung während der Arbeit bezüglich der <1>Microsoft Azure-Dienst und -Entwicklungen</1>.",
+      "paragraph5": "Einige Techniken wurden vor langer Zeit angewendet, wie z <1>Entwicklung von Mikrocontrollern</1>, <3>Entwicklung von Linux-Betriebssystemen</3>, <5>Internet der Dinge</5>, etc. <7>Entwicklung von eingebetteten Systemen</7>.",
+      "paragraph6": "Wo immer es möglich ist, setze ich meine Leidenschaft für die Entwicklung von Produkten auch mit ein <1>Full-Stack-Entwicklung</1> and <3>Lösungen für maschinelles Lernen</3>."
+    },
+
+    "social_info": {
+      "1": "FINDE MICH AUF",
+      "2": "Fühlen sich frei <1>anschließen</1> mit mir"
+    },
+
+    "footer": {
+      "1": "Designed and Developed by Gaopeng Bai"
+    },
+
+    "About": {
+      "title": "Wissen wer <1>bin ich</1>",
+      "aboutme": "Hallo alles, Ich bin <1>Gaopeng Bai </1>von <3> Henan, China</3>.",
+      "aboutme_1": "Ich bin Master of Embedded Systems and Computing der Universität Duisburg-Essen.",
+      "aboutme_2": "Abgesehen vom Programmieren, einige andere Aktivitäten, die ich gerne mache!",
+      "hobbies": {
+        "1": "Game Spielen",
+        "2": "Schreiben von Tech-Blogs",
+        "3": "Animationen ansehen",
+        "4": "Reisen"
+      },
+
+      "instruct": "Bemühen Sie sich, Dinge zu bauen, die einen Unterschied machen!",
+
+      "sub_sills": "Professionelle <1>Fähigkeiten </1>",
+      "sub_works": "Meine <1>Arbeitserfahrung </1>",
+      "sub_education": "Meine <1>Ausbildung </1>",
+      "sub_tools": "<0>Tools</0> ich benutze",
+      "sub_pricing": "<0>Preisgestaltung</0> Tabelle",
+      "sub_code": "Days I <1>Code</1>"
+    },
+    "working": {
+      "working1": {
+        "title": "Software-Ingenieur- und Full-Stack-Entwickler",
+        "date": "20. Mai-Geschenk |Technidoo-Lösungen (Vollzeitjob)",
+        "jd": {
+          "1": "Full-Stack-Entwicklung mit React JS / TS und Microsoft ASP.NET-Kern",
+          "2": "Full-Stack-Entwicklung mit Bootstrap und Python-Kolben",
+          "3": "Bildverarbeitung mitopencvfürOCR(MicrosoftkognitiverLeistungen undterreract...)Projekte.",
+          "4": "Machine lernen für die Bildklassifizierung, Objekterkennung, Textklassifizierung"
+        }
+      },
+      "working2": {
+        "title": "Algorithmusingenieur & Projektmanagement",
+        "date": "Jun 2019-März 2020 |DUISBURG Universität (Student Job)",
+        "jd": {
+          "1": "Projektmanagement und -planung sowie Design-Machine-Lernalgorithmen.",
+          "2": "Bildverarbeitungsalgorithmen des neuronalen Netzwerks, das Objekterkennung, Bildbeschriftung, Bildklassenamenkennung enthalten.",
+          "3": "Meta-Lernen, um das Verhalten der Umwelt zu erkennen (Daten von Sensoren sammeln).",
+          "4": "Projektpräsentation an die Kunden Python-Qt-GUI"
+        }
+      },
+      "working3": {
+        "title": "Softwareentwickler",
+        "date": "Januar 2019-April 2019 | Huawei (Studentenjob).",
+        "jd": {
+          "1": "Pflegen Sie Software, die ich selbst entwickelt habe.",
+          "2": "Entwickeln Sie eine neue Robotic Process Automation (RPA)-Software."
+        }
+      },
+      "working4": {
+        "title": "Softwareingenieur & Projektmanagement",
+        "date": "Juni 2018-Dezember 2018 | Huawei (Praktikum).",
+        "jd": {
+          "1": "Entwickeln Sie RPA (Robotic Process Automation) und Makros von VBA für Excel-Tools zur Automatisierung der Büroarbeit.",
+          "2": "Fehlersuche und Behebung des Problems der Übertragungsspur in der Mobilkommunikation."
+        }
+      },
+      "working5": {
+        "title": "Ingenieur für eingebettete Systeme",
+        "date": "Mai 2015-Mai 2016 | Schild Smart Haus.",
+        "jd": {
+          "1": "Android-Anwendung als Client steuert jedes elektronische Gerät in einem Raum.",
+          "2": "Entwicklung von drahtlosen Sensornetzwerken und elektronischen Schaltungen."
+        }
+      }
+    },
+
+    "education": {
+      "education1": {
+        "title": "Master-Abschluss in Embedded System Engineering",
+        "date": "2016-2019 | Universität Duisburg-Essen",
+        "jd": {
+          "1": "Konzentrieren Sie sich auf das fortgeschrittene Lernen und Forschen von eingebetteten Systemen."
+        }
+      },
+      "education2": {
+        "title": "Magisterarbeit",
+        "date": "Universität Duisburg-Essen | Abteilung Interaktive Systeme",
+        "jd": {
+          "1": "Meta-Learning für nächste Song-Empfehlungen (Research on the Application of Meta-Learning Algorithms in Song Recommendation)."
+        }
+      },
+      "education3": {
+        "title": "Bachelor in Elektro- und Nachrichtentechnik",
+        "date": "2012-2016 | Universität Zhengzhou",
+        "jd": {
+          "1": "Schwerpunkte im Grundlagenstudium der Elektronik und Kommunikationstechnik und Forschung zur Richtung des Internets der Dinge."
+        }
+      },
+      "education4": {
+        "title": "Bachelorarbeit",
+        "date": "Universität Zhengzhou | Abteilung für Informationstechnologie",
+        "jd": {
+          "1": "Ein vollständiger Satz von eingebetteten Smart-Home-Systemen basierend auf einer Android-Anwendung."
+        }
+      }
+    },
+
+    "projects": {
+      "title": "Meine früheren <1>Funktioniert </1>",
+      "subTitle": "Hier sind ein paar Projekte, an denen ich gearbeitet habe (Nur öffentlich).",
+      "project_1": {
+        "title": "OCR Video Automation",
+        "description": "Dieses Projekt extrahiert den Bildbereich an der angegebenen Position im Video, erkennt die Zeichen im Bild und druckt an die angegebene Position in der PDF-Datei mithilfe von Python-OpenCV, Python-QT5 und OCR (Optical Character Recognition) der künstlichen Intelligenz automatische Aufzeichnung der Industriemaschinenparameter."
+      },
+      "project_2": {
+        "title": "Gradient Encryption",
+        "description": "Das Modell wurde für sichere Deep-Learning-Gradientenverschlüsselungs-Aggregationsexperimente auf dem cifar100- und mnist-Datensatz entwickelt. Dies realisiert, dass ein differentielles Dataset-Training auf den unabhängigen Modellen verwendet wird, dann werden alle Parameter verschlüsselt in einem Container für spezifische Parameter zusammengefasst. Schließlich laden die Modelle Parameter hoch, nachdem die Gradienten jedes Modells verschlüsselt und zusammen aggregiert wurden."
+      },
+      "project_3": {
+        "title": "Personal Website Template",
+        "description": "Persönliche Website-UI-Vorlage mit React-TypeScript-Klassenkomponenten Eine persönliche Website kann alles sein, was Sie wollen, einschließlich Hobbys, Haustiere oder Informationen wie Akademiker, Leistungen, Arbeitserfahrungen. Es kann eine Familien-Website sein, die Ihre Abenteuer mit Ihren Lieben teilt, zusammen mit einem Bereich für Kommentare und Diskussionen."
+      },
+      "project_4": {
+        "title": "QT flowmanager",
+        "description": "Dieses Projekt ist ein GUI (Python-QT)-Clientzugriffs-Ryu-Netzwerkmanager, um die Flüsse in den Switch-Netzwerken zu steuern. Standardmäßig wird Mininet (Docker-Bereitstellung) verwendet, um das Switch-Netzwerk zu simulieren. Grundsätzlich kann dieses Programm jedes Betriebssystem ausführen, muss aber mit Docker env als Schlag sein. Andernfalls müssen Sie eine Mininet-Umgebung auf einer VM oder einem Linux-Betriebssystem erstellen."
+      },
+      "project_5": {
+        "title": "Meta-learning for recommendation",
+        "description": "In diesem Thema wurde Meta-Learning mit Memory-Augmented Neural Network verwendet, um einem Benutzer, der zum Hören neigt, das nächste Lied zu empfehlen. Aus der bestehenden Playlist des Benutzers wird der Algorithmus verwendet, um das nächste dem Benutzer empfohlene Lied vorherzusagen. Und indem es dem Benutzer ermöglicht wird, Feedback-Aktionen zum aktuellen Lied bereitzustellen, wird es verwendet, um die Wiedergabeliste anzupassen, um das nächste neue Lied zu empfehlen. Das Benutzer-Feedback kann bestimmen, ob ein Lied, das der Benutzer gerade hört, zur nächsten Vorhersageliste hinzugefügt wird, dann sagt der Algorithmus das nächste Lied voraus, das der Benutzer basierend auf dieser vorhergesagten Liste möglicherweise bevorzugt anhört."
+      },
+      "project_6": {
+        "title": "My Spotify Client",
+        "description": "Mein Spotify-Client mit MANN-Empfehlungssystem (Meta-Learning mit Memory-Augmented), um zu überprüfen, ob die Ergebnisse dieses Meta-Learnings für die nächste Song-Empfehlung objektiv sind. Ich verwende die Spotify-Python-API, um eine Anwendung (grafische Benutzeroberfläche) zu erstellen, die enthält MANN-Algorithmen empfehlen dem Benutzer den nächsten Song."
+      },
+      "project_7": {
+        "title": "OCR Simulator",
+        "description": "Dies ist ein Simulator zum Testen der OCR-Real-Time-Monitor-Anwendung (c#, dotnet), einschließlich eines Industriemaschinenmonitor-Simulators und eines Echtzeit-Ergebnispräsentationsclients, der sich mit dem Server des OCR-Real-Time-Monitors verbindet, der in die Timer-Run-Funktion integriert ist."
+      },
+      "project_8": {
+        "title": "Tensorflow Serving",
+        "description": "Dies ist ein Modell zum Bereitstellen eines trainierten Modells in einer containerisierten Anwendung mithilfe von Tensorflow Server und Kubernetes, einer Python-Anwendung, die eine oder mehrere APIs bereitstellt, die Vorhersagen aus dem bereitgestellten Modell konsumieren und dann bereitstellen sowie Systemtests schreiben, die die Leistung demonstrieren Ihrer Anwendung unter Last."
+      },
+      "project_9": {
+        "title": "My Web Spotify Client",
+        "description": "Mein Web-Spotify-Client mit RecRNN-Empfehlungssystem, um zu überprüfen, ob die Ergebnisse dieses Meta-Learnings für die nächste Song-Empfehlung objektiv sind. Ich verwende die Spotify-Web-API, um eine von Python django und redis-Server entwickelte Anwendung (grafische Benutzeroberfläche) zu erstellen, die eigene enthält RNN-Empfehlungsalgorithmen, um dem Benutzer den nächsten Song zu empfehlen."
+      }
+    }
+  }
+}
