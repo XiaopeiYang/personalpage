@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.679a4311.css",
+    "main.js": "/static/js/main.dbbd767a.js",
+    "static/js/377.a7cf8eb3.chunk.js": "/static/js/377.a7cf8eb3.chunk.js",
+    "static/media/CV_CN_GaopengBai.pdf": "/static/media/CV_CN_GaopengBai.492282da5827d1bca1a3.pdf",
+    "static/media/myspotify.png": "/static/media/myspotify.e263dc3fcb809282b0a0.png",
+    "static/media/blog.png": "/static/media/blog.52102140f369ea233010.png",
+    "static/media/chatify.png": "/static/media/chatify.9373eddae1a258056c35.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/CV_EN_GaopengBai.pdf": "/static/media/CV_EN_GaopengBai.eebb14773319ae05b3b5.pdf",
+    "static/media/CV_GE_GaopengBai.pdf": "/static/media/CV_GE_GaopengBai.5fab6f769c592f39b9a0.pdf",
+    "static/media/overview.png": "/static/media/overview.49ec3bf9e46ce80d6393.png",
+    "static/media/pysyft.png": "/static/media/pysyft.d7f59bc718456f079d6d.png",
+    "static/media/mann.png": "/static/media/mann.fade62e6891045f75edc.png",
+    "static/media/tfserving.png": "/static/media/tfserving.594ee8b815cfa99c9380.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/static/media/logo.8424b9c6a16bda37f30d.png",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.3b5d79a56774717bcfd8.svg",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.679a4311.css.map": "/static/css/main.679a4311.css.map",
+    "main.dbbd767a.js.map": "/static/js/main.dbbd767a.js.map",
+    "377.a7cf8eb3.chunk.js.map": "/static/js/377.a7cf8eb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.679a4311.css",
+    "static/js/main.dbbd767a.js"
+  ]
+}
